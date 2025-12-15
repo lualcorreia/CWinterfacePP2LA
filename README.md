@@ -1,4 +1,4 @@
-# PP2LA CW Interface & Keyer
+# PP2LA CW Interface & Keyer (For any radio, including old rigs)
 
 This project consists of a Graphical User Interface (GUI) developed in **Python** for controlling Morse Code (CW) transmission via **Arduino**. The system allows for free-text typing, macro usage, speed control (WPM), automated Auto CQ, and contact logging (Logbook) in ADIF format.
 
